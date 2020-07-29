@@ -1,0 +1,19 @@
+{
+  "name": "github-start",
+  "version": "1.0.0",
+  "description": "Updating the readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subharony77/githubdemo.git"
+  },
+  "author": "subhakant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subharony77/githubdemo/issues"
+  },
+  "homepage": "https://github.com/Subharony77/githubdemo#readme"
+}
